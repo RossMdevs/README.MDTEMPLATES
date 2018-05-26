@@ -8,7 +8,7 @@ INCUDE Warning TEXT
 Include Recent Builds, URL'S, Branch Maintainees
 
 # Repository for BRAND/ORG NAME  
-Official Repo for https://rossm.pw
+Official Repo for HTTPS://ORG.TLD
 
 # This is a official Build ran on: 
 USE WHAT WEBSERVER OR STACK IS USED
@@ -32,4 +32,4 @@ USE WHAT WEBSERVER OR STACK IS USED
      
 ### Signed - Name
 
-###### This was created by Rossm.pw
+###### This was created by Rossm.pw - [Templated .MD's](https://github.com/RossMdevs/README.MDTEMPLATES)
