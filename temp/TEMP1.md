@@ -1,3 +1,5 @@
+###### This template must be heavily modified to fit your needs.
+###### If this file is modified on make sure to include credit
 ###### This is a stable branch, this branch is maintained on a basis
 ![Replace inside () with logo url]()
 
@@ -13,7 +15,7 @@ Official Repo for HTTPS://ORG.TLD
 # This is a official Build ran on: 
 USE WHAT WEBSERVER OR STACK IS USED
 
-# A list of what was used for Rossm.pw
+# A list of what was used for ORG NAME
 - NAME
 - NAME 
 - EXAMPLE
